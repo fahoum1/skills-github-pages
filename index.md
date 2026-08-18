@@ -4,7 +4,6 @@
 Derivatives practitioner (24 years / 20 in options) turned product & business leader · Building AI-native trading tools
 Mumbai, India · fahoum@gmail.com
 
-> **Disclosure tier:** This CV is the **fuller-numbers** deliverable — shared deliberately with recruiters and hiring managers, not posted publicly. It carries Market Pulse scale + team, Punch order-volume and funnel growth, AutonomousKit build stats, and the regulated-stack specifics. The **deepest financials** (revenue, margin, cumulative revenue) are **not** here — they are 1:1-only, held in the recruiter brief. The wind-down is stated once, plainly, in the recruiter brief; this CV speaks of the products in the present tense.
 
 ---
 
@@ -14,7 +13,7 @@ Co-founder and product leader who built the trading product, not just around it.
 
 I bring 24 years in the markets, 20 in options — ex-derivatives dealer (Tullett Prebon) and prop-desk derivatives analyst — so I design for how traders actually work, from the inside, and write specs precise enough to build. Alongside product I've carried founder-level ownership: pricing, growth, brand, and a fully regulated broking stack. I'm a qualified Research Analyst (cleared the SEBI RA certification). And I'm AI-native in this domain right now — a position-aware trading assistant, an ~80%-AI-built desktop terminal, and an in-house agentic-coding practice that shipped five products in ten weeks.
 
-Targeting **Business Head / Director / VP Product** in fintech, broking, wealth, or derivatives.
+Targeting **Leadership roles** in fintech, broking, wealth, or derivatives.
 
 ---
 
@@ -87,11 +86,10 @@ Targeting **Business Head / Director / VP Product** in fintech, broking, wealth,
 
 ## Skills
 
-**Domain:** Derivatives / F&O · Options (Greeks, OI, skew, gamma) · Market microstructure (NSE/BSE) · Order types (bracket, cover, GTT, SL-M, AMO) · Charting & market data · Trading-platform UX · Risk / margining
-**Product:** 0→1 product · PRD & spec discipline (acceptance criteria, API contracts, edge cases) · Roadmap & prioritization · Metrics & funnel ownership · Trading-terminal & mobile product
-**Business:** Founder / P&L-adjacent ownership · Pricing · Growth (organic) · Brand & positioning · Content & distribution strategy · Regulatory (SEBI broking stack)
-**AI-native:** AI-native / agentic development · LLM product design · AI trading assistants · AI video production pipeline
-**Tools:** SQL / funnel & cohort analysis · agentic-coding harnesses
+- **Domain:** Derivatives / F&O · Options (Greeks, OI, skew, gamma) · Market microstructure (NSE/BSE) · Order types (bracket, cover, GTT, SL-M, AMO) · Charting & market data · Trading-platform UX · Risk / margining
+- **Product:** 0→1 product · PRD & spec discipline (acceptance criteria, API contracts, edge cases) · Roadmap & prioritization · Metrics & funnel ownership · Trading-terminal & mobile product
+- **Business:** Founder / P&L-adjacent ownership · Pricing · Growth (organic) · Brand & positioning · Content & distribution strategy · Regulatory (SEBI broking stack)
+- **AI-native:** AI-native / agentic development · LLM product design · AI trading assistants · AI video production pipeline
 
 ---
 
@@ -102,4 +100,4 @@ Targeting **Business Head / Director / VP Product** in fintech, broking, wealth,
 
 ## Certification
 
-- **Qualified Research Analyst** — cleared the SEBI Research Analyst certification. *(Certification held; live registration was under the Punch/Market Pulse entity.)*
+- **Qualified Research Analyst** — *(Certification held; live registration was under the Punch/Market Pulse entity.)*
