@@ -1,4 +1,4 @@
-# Arshad Fahoum — CV
+
 
 **Co-Founder & Product/Business Leader · Market Pulse & Punch (broker)**
 Derivatives practitioner (24 years / 20 in options) turned product & business leader · Building AI-native trading tools
